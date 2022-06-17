@@ -1,0 +1,7 @@
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs\MathOperation\obj\Debug\MathOperation.csproj.AssemblyReference.cache
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs\MathOperation\obj\Debug\MathOperation.csproj.CoreCompileInputs.cache
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs\MathOperation\bin\Debug\MathOperation.exe.config
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs\MathOperation\bin\Debug\MathOperation.exe
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs\MathOperation\bin\Debug\MathOperation.pdb
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs\MathOperation\obj\Debug\MathOperation.exe
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs\MathOperation\obj\Debug\MathOperation.pdb
