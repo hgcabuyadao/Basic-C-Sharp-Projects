@@ -1,0 +1,7 @@
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs\WelcomeMessage\obj\Debug\WelcomeMessage.csproj.AssemblyReference.cache
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs\WelcomeMessage\obj\Debug\WelcomeMessage.csproj.CoreCompileInputs.cache
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs\WelcomeMessage\bin\Debug\WelcomeMessage.exe.config
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs\WelcomeMessage\bin\Debug\WelcomeMessage.exe
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs\WelcomeMessage\bin\Debug\WelcomeMessage.pdb
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs\WelcomeMessage\obj\Debug\WelcomeMessage.exe
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs\WelcomeMessage\obj\Debug\WelcomeMessage.pdb
