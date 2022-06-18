@@ -1,0 +1,7 @@
+C:\Users\Master Quincy\source\repos\WhileLoops\obj\Debug\WhileLoops.csproj.AssemblyReference.cache
+C:\Users\Master Quincy\source\repos\WhileLoops\obj\Debug\WhileLoops.csproj.CoreCompileInputs.cache
+C:\Users\Master Quincy\source\repos\WhileLoops\bin\Debug\WhileLoops.exe.config
+C:\Users\Master Quincy\source\repos\WhileLoops\bin\Debug\WhileLoops.exe
+C:\Users\Master Quincy\source\repos\WhileLoops\bin\Debug\WhileLoops.pdb
+C:\Users\Master Quincy\source\repos\WhileLoops\obj\Debug\WhileLoops.exe
+C:\Users\Master Quincy\source\repos\WhileLoops\obj\Debug\WhileLoops.pdb
