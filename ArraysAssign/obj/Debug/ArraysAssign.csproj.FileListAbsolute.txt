@@ -1,0 +1,7 @@
+C:\Users\Master Quincy\source\repos\ArraysAssign\obj\Debug\ArraysAssign.csproj.AssemblyReference.cache
+C:\Users\Master Quincy\source\repos\ArraysAssign\obj\Debug\ArraysAssign.csproj.CoreCompileInputs.cache
+C:\Users\Master Quincy\source\repos\ArraysAssign\bin\Debug\ArraysAssign.exe.config
+C:\Users\Master Quincy\source\repos\ArraysAssign\bin\Debug\ArraysAssign.exe
+C:\Users\Master Quincy\source\repos\ArraysAssign\bin\Debug\ArraysAssign.pdb
+C:\Users\Master Quincy\source\repos\ArraysAssign\obj\Debug\ArraysAssign.exe
+C:\Users\Master Quincy\source\repos\ArraysAssign\obj\Debug\ArraysAssign.pdb
