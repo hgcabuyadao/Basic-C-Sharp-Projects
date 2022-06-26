@@ -1,0 +1,7 @@
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\ExceptionAssign\bin\Debug\ExceptionAssign.exe.config
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\ExceptionAssign\bin\Debug\ExceptionAssign.exe
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\ExceptionAssign\bin\Debug\ExceptionAssign.pdb
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\ExceptionAssign\obj\Debug\ExceptionAssign.csproj.AssemblyReference.cache
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\ExceptionAssign\obj\Debug\ExceptionAssign.csproj.CoreCompileInputs.cache
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\ExceptionAssign\obj\Debug\ExceptionAssign.exe
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\ExceptionAssign\obj\Debug\ExceptionAssign.pdb
