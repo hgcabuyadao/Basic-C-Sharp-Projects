@@ -1,0 +1,7 @@
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\OneDimensionalArray\bin\Debug\OneDimensionalArray.exe.config
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\OneDimensionalArray\bin\Debug\OneDimensionalArray.exe
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\OneDimensionalArray\bin\Debug\OneDimensionalArray.pdb
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\OneDimensionalArray\obj\Debug\OneDimensionalArray.csproj.AssemblyReference.cache
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\OneDimensionalArray\obj\Debug\OneDimensionalArray.csproj.CoreCompileInputs.cache
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\OneDimensionalArray\obj\Debug\OneDimensionalArray.exe
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\OneDimensionalArray\obj\Debug\OneDimensionalArray.pdb
