@@ -1,0 +1,7 @@
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\ClassesandMethodsAssignment1\bin\Debug\ClassesandMethodsAssignment1.exe.config
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\ClassesandMethodsAssignment1\bin\Debug\ClassesandMethodsAssignment1.exe
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\ClassesandMethodsAssignment1\bin\Debug\ClassesandMethodsAssignment1.pdb
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\ClassesandMethodsAssignment1\obj\Debug\ClassesandMethodsAssignment1.csproj.AssemblyReference.cache
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\ClassesandMethodsAssignment1\obj\Debug\ClassesandMethodsAssignment1.csproj.CoreCompileInputs.cache
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\ClassesandMethodsAssignment1\obj\Debug\ClassesandMethodsAssignment1.exe
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\ClassesandMethodsAssignment1\obj\Debug\ClassesandMethodsAssignment1.pdb
