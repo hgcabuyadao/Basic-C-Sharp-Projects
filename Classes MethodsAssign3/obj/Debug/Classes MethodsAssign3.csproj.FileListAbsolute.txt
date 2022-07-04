@@ -1,0 +1,7 @@
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\Classes MethodsAssign3\bin\Debug\Classes MethodsAssign3.exe.config
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\Classes MethodsAssign3\bin\Debug\Classes MethodsAssign3.exe
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\Classes MethodsAssign3\bin\Debug\Classes MethodsAssign3.pdb
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\Classes MethodsAssign3\obj\Debug\Classes MethodsAssign3.csproj.AssemblyReference.cache
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\Classes MethodsAssign3\obj\Debug\Classes MethodsAssign3.csproj.CoreCompileInputs.cache
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\Classes MethodsAssign3\obj\Debug\Classes MethodsAssign3.exe
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\Classes MethodsAssign3\obj\Debug\Classes MethodsAssign3.pdb
