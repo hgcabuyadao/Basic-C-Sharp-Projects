@@ -1,0 +1,7 @@
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\Inherit Assign1\bin\Debug\Inherit Assign1.exe.config
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\Inherit Assign1\bin\Debug\Inherit Assign1.exe
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\Inherit Assign1\bin\Debug\Inherit Assign1.pdb
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\Inherit Assign1\obj\Debug\Inherit Assign1.csproj.AssemblyReference.cache
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\Inherit Assign1\obj\Debug\Inherit Assign1.csproj.CoreCompileInputs.cache
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\Inherit Assign1\obj\Debug\Inherit Assign1.exe
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\Inherit Assign1\obj\Debug\Inherit Assign1.pdb
