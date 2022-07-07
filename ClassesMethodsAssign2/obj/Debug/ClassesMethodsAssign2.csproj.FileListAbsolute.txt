@@ -1,7 +1,0 @@
-C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\ClassesMethodsAssign2\bin\Debug\ClassesMethodsAssign2.exe.config
-C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\ClassesMethodsAssign2\bin\Debug\ClassesMethodsAssign2.exe
-C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\ClassesMethodsAssign2\bin\Debug\ClassesMethodsAssign2.pdb
-C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\ClassesMethodsAssign2\obj\Debug\ClassesMethodsAssign2.csproj.AssemblyReference.cache
-C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\ClassesMethodsAssign2\obj\Debug\ClassesMethodsAssign2.csproj.CoreCompileInputs.cache
-C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\ClassesMethodsAssign2\obj\Debug\ClassesMethodsAssign2.exe
-C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\ClassesMethodsAssign2\obj\Debug\ClassesMethodsAssign2.pdb
