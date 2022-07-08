@@ -1,0 +1,14 @@
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\AbstractAssign1\obj\Debug\AbstractAssign1.csproj.AssemblyReference.cache
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\AbstractAssign1\obj\Debug\AbstractAssign1.csproj.CoreCompileInputs.cache
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\AbstractAssign1\bin\Debug\AbstractAssign1.exe.config
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\AbstractAssign1\bin\Debug\AbstractAssign1.exe
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\AbstractAssign1\bin\Debug\AbstractAssign1.pdb
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\AbstractAssign1\obj\Debug\AbstractAssign1.exe
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\AbstractAssign1\obj\Debug\AbstractAssign1.pdb
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\AbstractAssign1_interface\obj\Debug\AbstractAssign1.csproj.AssemblyReference.cache
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\AbstractAssign1_interface\obj\Debug\AbstractAssign1.csproj.CoreCompileInputs.cache
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\AbstractAssign1_interface\obj\Debug\AbstractAssign1.exe
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\AbstractAssign1_interface\obj\Debug\AbstractAssign1.pdb
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\AbstractAssign1_interface\bin\Debug\AbstractAssign1.exe.config
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\AbstractAssign1_interface\bin\Debug\AbstractAssign1.exe
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\AbstractAssign1_interface\bin\Debug\AbstractAssign1.pdb
