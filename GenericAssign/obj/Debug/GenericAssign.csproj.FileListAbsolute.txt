@@ -1,0 +1,7 @@
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\GenericAssign\obj\Debug\GenericAssign.csproj.AssemblyReference.cache
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\GenericAssign\obj\Debug\GenericAssign.csproj.CoreCompileInputs.cache
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\GenericAssign\bin\Debug\GenericAssign.exe.config
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\GenericAssign\bin\Debug\GenericAssign.exe
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\GenericAssign\bin\Debug\GenericAssign.pdb
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\GenericAssign\obj\Debug\GenericAssign.exe
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\GenericAssign\obj\Debug\GenericAssign.pdb
