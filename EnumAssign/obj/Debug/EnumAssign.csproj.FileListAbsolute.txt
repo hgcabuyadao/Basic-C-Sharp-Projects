@@ -1,0 +1,7 @@
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\EnumAssign\bin\Debug\EnumAssign.exe.config
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\EnumAssign\bin\Debug\EnumAssign.exe
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\EnumAssign\bin\Debug\EnumAssign.pdb
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\EnumAssign\obj\Debug\EnumAssign.csproj.AssemblyReference.cache
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\EnumAssign\obj\Debug\EnumAssign.csproj.CoreCompileInputs.cache
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\EnumAssign\obj\Debug\EnumAssign.exe
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\EnumAssign\obj\Debug\EnumAssign.pdb
