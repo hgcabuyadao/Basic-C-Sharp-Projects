@@ -1,0 +1,7 @@
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\LambdaAssign\bin\Debug\LambdaAssign.exe.config
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\LambdaAssign\bin\Debug\LambdaAssign.exe
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\LambdaAssign\bin\Debug\LambdaAssign.pdb
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\LambdaAssign\obj\Debug\LambdaAssign.csproj.AssemblyReference.cache
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\LambdaAssign\obj\Debug\LambdaAssign.csproj.CoreCompileInputs.cache
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\LambdaAssign\obj\Debug\LambdaAssign.exe
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\LambdaAssign\obj\Debug\LambdaAssign.pdb
