@@ -1,0 +1,7 @@
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\StructAssign\bin\Debug\StructAssign.exe.config
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\StructAssign\bin\Debug\StructAssign.exe
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\StructAssign\bin\Debug\StructAssign.pdb
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\StructAssign\obj\Debug\StructAssign.csproj.AssemblyReference.cache
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\StructAssign\obj\Debug\StructAssign.csproj.CoreCompileInputs.cache
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\StructAssign\obj\Debug\StructAssign.exe
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\StructAssign\obj\Debug\StructAssign.pdb
