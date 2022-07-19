@@ -1,0 +1,7 @@
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\IOAssign\obj\Debug\IOAssign.csproj.AssemblyReference.cache
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\IOAssign\obj\Debug\IOAssign.csproj.CoreCompileInputs.cache
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\IOAssign\bin\Debug\IOAssign.exe.config
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\IOAssign\bin\Debug\IOAssign.exe
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\IOAssign\bin\Debug\IOAssign.pdb
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\IOAssign\obj\Debug\IOAssign.exe
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\IOAssign\obj\Debug\IOAssign.pdb
