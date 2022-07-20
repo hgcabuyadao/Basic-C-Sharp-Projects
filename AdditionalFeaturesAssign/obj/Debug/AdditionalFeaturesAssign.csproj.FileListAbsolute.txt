@@ -1,0 +1,7 @@
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\AdditionalFeaturesAssign\bin\Debug\AdditionalFeaturesAssign.exe.config
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\AdditionalFeaturesAssign\bin\Debug\AdditionalFeaturesAssign.exe
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\AdditionalFeaturesAssign\bin\Debug\AdditionalFeaturesAssign.pdb
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\AdditionalFeaturesAssign\obj\Debug\AdditionalFeaturesAssign.csproj.AssemblyReference.cache
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\AdditionalFeaturesAssign\obj\Debug\AdditionalFeaturesAssign.csproj.CoreCompileInputs.cache
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\AdditionalFeaturesAssign\obj\Debug\AdditionalFeaturesAssign.exe
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\AdditionalFeaturesAssign\obj\Debug\AdditionalFeaturesAssign.pdb
