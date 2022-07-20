@@ -1,0 +1,7 @@
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\DateTimeAssign\bin\Debug\DateTimeAssign.exe.config
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\DateTimeAssign\bin\Debug\DateTimeAssign.exe
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\DateTimeAssign\bin\Debug\DateTimeAssign.pdb
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\DateTimeAssign\obj\Debug\DateTimeAssign.csproj.AssemblyReference.cache
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\DateTimeAssign\obj\Debug\DateTimeAssign.csproj.CoreCompileInputs.cache
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\DateTimeAssign\obj\Debug\DateTimeAssign.exe
+C:\Users\Master Quincy\Desktop\Basic_C#_Programs 2\DateTimeAssign\obj\Debug\DateTimeAssign.pdb
